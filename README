@@ -1,0 +1,7 @@
+README: Anagrams
+Andrew Beinstein
+
+anagram.py: Contains the solutions. The program will prompt you to enter
+'2', '5', or '6', depending on which solution you would like to see.
+
+dict.txt: Input file of English words
